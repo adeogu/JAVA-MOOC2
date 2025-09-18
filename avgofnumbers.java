@@ -1,4 +1,4 @@
-class numsumofnumbers{
+class avgofnumbers{
   public static void main(string[]args){
     Scanner scanner = new Scanner(system.in);
     int count = 0;
