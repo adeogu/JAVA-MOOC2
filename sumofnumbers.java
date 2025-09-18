@@ -12,7 +12,7 @@ class sumofnumbers{
         count = count+value;
         //or count += value
       }
-      system.out.println("number of negatives" + count);
+      system.out.println("sum of numbers" + count);
     }
     scanner.close();
     
