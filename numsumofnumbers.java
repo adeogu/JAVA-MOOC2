@@ -9,11 +9,10 @@ class numsumofnumbers{
       if(value==0){
         break;
       }
-      //no need for else it can just be count+=value
+      //no need for else 
       else{
         count1++
         count = count+value;
-        //or count += value
       }
       system.out.println("number of numbers" + count1);
       system.out.println("sum of negatives" + count);
