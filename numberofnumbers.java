@@ -1,4 +1,4 @@
-class numberofnumbers{
+sclass numberofnumbers{
   public static void main(string[]args){
     Scanner scanner = new Scanner(system.in);
     int count = 0;
@@ -11,8 +11,7 @@ class numberofnumbers{
       else{
         count++
       }
-      system.out.println("number of negatives" + count);
-    }
+      system.out.println("number of numbers" + count);
     scanner.close();
     
   }
