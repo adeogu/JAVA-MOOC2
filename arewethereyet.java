@@ -10,4 +10,4 @@ class arewethereyet{
     }
     scanner.close();
   }
-}
+}.
